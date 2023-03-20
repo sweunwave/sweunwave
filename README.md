@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 ####  🤔 Don't be afraid, Keep Going!
 ##### Hi. I’m Seungwoo. <br/> I'm Interested in Autonomous Vehicle, Mobile Robot🤖
 
-</div>
+### 🎓Education
+- Bachelor of Electronic Eng, Keimyung Univ
+- Bachelor of Future Automotive Eng, Keimyung Univ (double major)
+ 
 
-###🎓Education
-- Bachelor of Electronic Engineering, Keimyung Univ.
+</div>
 
 <div align="center">
 
