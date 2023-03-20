@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 ####  🤔 Don't be afraid, Keep Going!
 ##### Hi. I’m Seungwoo. <br/> I'm Interested in Autonomous Vehicle, Mobile Robot🤖
 
+</div>
+
+###🎓Education
+- Bachelor of Electronic Engineering, Keimyung Univ.
+
+<div align="center">
+
 ###  	:hammer_and_wrench: Tech Skills
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
