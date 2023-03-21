@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=8FBC8F&text=swooeun's&animation=fadeIn)
   
 ####  🤔 Don't be afraid, Keep Going!
-#### Hi. I’m Seungwoo. <br/> I'm Interested in Autonomous Vehicle, Mobile Robot🤖
+#### Hi. I’m Seungwoo. <br/> I'm interested in Autonomous Vehicle, Mobile Robot🤖
 
 ### 🎓 Education
 Bachelor of Electronic Eng, Keimyung Univ <br/>
