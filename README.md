@@ -1,5 +1,5 @@
 <!--
-**Seungw0o/Seungw0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sweunwave/sweunwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
