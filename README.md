@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div align="left">
  
 <!--![header](https://capsule-render.vercel.app/api?type=Rounded&color=8FBC8F&text=sweunwave's&animation=fadeIn)-->
   
@@ -30,7 +30,7 @@ Master's Student of School of Electronic and Electrical Engineering, Kyungpook N
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ###  	:hammer_and_wrench: Tech Skills
 
