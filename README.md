@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=8FBC8F&text=sweunwave's&animation=fadeIn)
+<!--![header](https://capsule-render.vercel.app/api?type=Rounded&color=8FBC8F&text=sweunwave's&animation=fadeIn)-->
   
-####  🤔 Don't be afraid, Keep Going!
-#### Hi. I’m Seungwoo. <br/> I'm interested in Autonomous Vehicle, Mobile Robot🤖
+<!--####  🤔 Don't be afraid, Keep Going!-->
+  
+#### Hi. I’m Seungwoo. <br/> I'm interested in Autonomous Driving, Mobile Robot🤖
 
 ### 🎓 Education
 Bachelor of Electronic Eng, Keimyung Univ <br/>
