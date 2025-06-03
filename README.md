@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 <!--####  🤔 Don't be afraid, Keep Going!-->
 
-#### Hi. I’m Seungwoo. <br/> I'm interested in Autonomous Driving, Mobile Robot🤖
+#### Hi. I’m Seungwoo. <br/> I'm interested in LiDAR, Autonomous Driving, Robotcis🤖 . .
 
 ### 🎓 Education
 Bachelor of Electronic Eng, Keimyung Univ <br/>
