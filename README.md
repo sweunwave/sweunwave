@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 ### 🎓 Education
 Bachelor of Electronic Eng, Keimyung Univ <br/>
 Bachelor of Future Automotive Eng, Keimyung Univ (double major)
-
-Master's Student of School of Electronic and Electrical Engineering, Kyungpook National Univ  
+Master Degree of School of Electronic and Electrical Engineering, Kyungpook National Univ  
 [intelligent Signal Processing Laboratory (iSPL)](https://sites.google.com/view/wilco/)
 
 
